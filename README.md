@@ -25,4 +25,4 @@ FIFO<br>
 1. A trace recording page faults for each memory reference in the sequence.<br>
 2. Counter recording total page faults.<br>
 #### We will have the following results (notice the two-digit page numbers):
-![](output.PNG)
+![](output.png)
